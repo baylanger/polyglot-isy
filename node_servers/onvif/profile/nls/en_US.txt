@@ -1,0 +1,24 @@
+# ONVIF Camera Labels
+ND-ONVIF-NAME = ONVIF IP Camera
+ST-CAM-GV1-NAME = IP Address Part 1
+ST-CAM-GV2-NAME = IP Address Part 2
+ST-CAM-GV3-NAME = IP Address Part 3
+ST-CAM-GV4-NAME = IP Address Part 4
+ST-CAM-GV5-NAME = Connected
+CMD-CAM-SET_IP-NAME = Set IP Address
+CMD-CAM-SET_IP_1-NAME = Set IP Address Part 1
+CMD-CAM-SET_IP_2-NAME = Set IP Address Part 2
+CMD-CAM-SET_IP_3-NAME = Set IP Address Part 3
+CMD-CAM-SET_IP_4-NAME = Set IP Address Part 4
+CMDP-CAM-IP-GV1-NAME = IP Address Part 1
+CMDP-CAM-IP-GV2-NAME = IP Address Part 2
+CMDP-CAM-IP-GV3-NAME = IP Address Part 3
+CMDP-CAM-IP-GV4-NAME = IP Address Part 4
+CMD-CAM-CONNECT-NAME = Connect to Camera
+
+# ONVIF Camera Motion Labels
+ND-MOTION-NAME = Camera Motion
+ST-MO-EN-NAME = Motion Enabled
+ST-MO-AL-NAME = Motion Alarm
+CMD-MO-DON-NAME = Motion On 
+CMD-MO-DOF-NAME = Motion Off
