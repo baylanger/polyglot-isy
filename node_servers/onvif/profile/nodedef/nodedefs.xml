@@ -2,6 +2,7 @@
 
     <!-- ONVIF Camera Node -->
     <nodeDef id="ONVIF" nodeType="139" nls="CAM">
+        <editors />
         <sts>
             <st id="GV1" editor="IP" /> <!-- IP Addr Field 1 -->
             <st id="GV2" editor="IP" /> <!-- IP Addr Field 2 -->
@@ -38,16 +39,17 @@
 
 	<!-- ONVIF Camera Motion Node -->
 	<nodeDef id="MOTION" nls="MO">
+        <editors />
         <sts>
             <st id="EN" editor="BOOL" /> <!-- ONVIF Cam Motion Enable -->
             <st id="AL" editor="BOOL" /> <!-- ONVIF Cam Motion Alarm -->
         </sts>
         <cmds>
-        	<sends>
+        	<sends />
+            <accepts>
                 <cmd id="DON" />
                 <cmd id="DOF" />
-            </sends>
-            <accepts />
+            </accepts>
         </cmds>
     </nodeDef>
 
