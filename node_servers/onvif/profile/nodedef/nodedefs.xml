@@ -47,8 +47,7 @@
                 <cmd id="DON" />
                 <cmd id="DOF" />
             </sends>
-            <accepts>
-            </accepts>
+            <accepts />
         </cmds>
     </nodeDef>
 
