@@ -1,0 +1,62 @@
+<nodeDefs>
+
+    <!-- ZM Server Node -->
+    <nodeDef id="ZONEMINDER" nodeType="139" nls="ZM">
+        <editors />
+        <sts>
+            <st id="GV1" editor="IP" /> <!-- IP Addr Field 1 -->
+            <st id="GV2" editor="IP" /> <!-- IP Addr Field 2 -->
+            <st id="GV3" editor="IP" /> <!-- IP Addr Field 3 -->
+            <st id="GV4" editor="IP" /> <!-- IP Addr Field 4 -->
+            <st id="GV5" editor="BOOL" /> <!-- ZM Server is connected -->  
+        </sts>
+        <cmds>
+            <sends />
+            <accepts>
+                <cmd id="SET_IP">
+                    <p id="GV1" editor="IP" init="GV1" />
+                    <p id="GV2" editor="IP" init="GV2" />
+                    <p id="GV3" editor="IP" init="GV3" />
+                    <p id="GV4" editor="IP" init="GV4" />
+                </cmd>
+                <cmd id="SET_IP_1">
+                    <p id="GV1" editor="IP" init="GV1" />
+                </cmd>
+                <cmd id="SET_IP_2">
+                    <p id="GV2" editor="IP" init="GV2" />
+                </cmd>
+                <cmd id="SET_IP_3">
+                    <p id="GV3" editor="IP" init="GV3" />
+                </cmd>
+                <cmd id="SET_IP_4">
+                    <p id="GV4" editor="IP" init="GV4" />
+                </cmd>
+                <cmd id="CONNECT">
+                </cmd>
+            </accepts>
+        </cmds>
+    </nodeDef>
+
+	<!-- ZM Motion Node -->
+	<nodeDef id="MOTION" nls="MO">
+        <editors />
+        <sts>
+            <st id="EN" editor="BOOL" /> <!-- ZM Motion Enable -->
+            <st id="AL" editor="BOOL" /> <!-- ZM Motion Alarm -->
+        </sts>
+        <cmds>
+        	<sends />
+            <accepts>
+                <cmd id="DISABLE" />
+                <cmd id="ENABLE" />
+                <cmd id="NONE" />
+                <cmd id="MONITOR" />
+                <cmd id="MODECT" />
+                <cmd id="RECORD" />
+                <cmd id="MOCORD" />
+                <cmd id="NODECT" />
+            </accepts>
+        </cmds>
+    </nodeDef>
+
+</nodeDefs>

@@ -1,0 +1,12 @@
+<editors>
+
+    <!-- IP Address Field -->
+    <editor id="IP">
+        <range uom="56" min="0" max="254" step="1" prec="0" />
+    </editor>
+
+   <editor id="BOOL">
+       <range uom="2" subset="0,1" />
+   </editor>
+
+</editors>

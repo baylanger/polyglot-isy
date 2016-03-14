@@ -1,0 +1,30 @@
+# ZM Server Labels
+ND-ZOMEMINDER-NAME = ZM Server
+ST-ZM-GV1-NAME = IP Address Part 1
+ST-ZM-GV2-NAME = IP Address Part 2
+ST-ZM-GV3-NAME = IP Address Part 3
+ST-ZM-GV4-NAME = IP Address Part 4
+ST-ZM-GV5-NAME = Connected
+CMD-ZM-SET_IP-NAME = Set IP Address
+CMD-ZM-SET_IP_1-NAME = Set IP Address Part 1
+CMD-ZM-SET_IP_2-NAME = Set IP Address Part 2
+CMD-ZM-SET_IP_3-NAME = Set IP Address Part 3
+CMD-ZM-SET_IP_4-NAME = Set IP Address Part 4
+CMDP-ZM-IP-GV1-NAME = IP Address Part 1
+CMDP-ZM-IP-GV2-NAME = IP Address Part 2
+CMDP-ZM-IP-GV3-NAME = IP Address Part 3
+CMDP-ZM-IP-GV4-NAME = IP Address Part 4
+CMD-ZM-CONNECT-NAME = Connect to Server
+
+# ZM Server Motion Labels
+ND-MOTION-NAME = Camera Motion
+ST-MO-EN-NAME = Motion Enabled
+ST-MO-AL-NAME = Motion Alarm
+CMD-MO-DISABLE-NAME = Motion Disable 
+CMD-MO-ENABLE-NAME = Motion Enable 
+CMD-MO-NONE-NAME = Mode None 
+CMD-MO-MONITOR-NAME = Mode Monitor 
+CMD-MO-MODECT-NAME = Mode Modect 
+CMD-MO-RECORD-NAME = Mode Record 
+CMD-MO-MOCORD-NAME = Mode Mocord 
+CMD-MO-NODECT-NAME = Mode Nodect 
