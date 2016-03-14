@@ -10,7 +10,7 @@
             "title": "python-onvif: ONVIF Client Implementation in Python",
             "author": "Quatanium Technology Co., Ltd. (quatanium)",
             "version": "0.1.3",
-            "date": "Match 14, 2016",
+            "date": "March 14, 2016",
             "source": "https://github.com/quatanium/python-onvif/tree/5db8e04f36747e28088e2a8765aabd266e1176ad",
             "license": "https://raw.githubusercontent.com/quatanium/python-onvif/5db8e04f36747e28088e2a8765aabd266e1176ad/LICENSE"
         }
