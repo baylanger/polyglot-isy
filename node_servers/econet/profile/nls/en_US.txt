@@ -1,0 +1,10 @@
+# ECONET Labels
+ND-ECONET-NAME = ECHO WH Node
+ST-EN-CONNECTED-NAME = ECONET is Connected
+CMD-EN-CONNECT-NAME = Connect to ECONET
+
+# ECONET WH Labels
+ND-WH-NAME = WH Node
+ST-WH-VA-NAME = Vacation Mode Status
+CMD-WH-DON-NAME = Vacation On 
+CMD-WH-DOF-NAME = Vacation Off

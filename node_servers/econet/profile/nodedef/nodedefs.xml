@@ -1,0 +1,32 @@
+<nodeDefs>
+
+    <!-- ECONET Node -->
+    <nodeDef id="ECONET" nodeType="139" nls="EN">
+        <editors />
+        <sts>
+            <st id="CONNECTED" editor="BOOL" /> <!-- ECONET is connected -->  
+        </sts>
+        <cmds>
+            <sends />
+            <accepts>
+            	<cmd id="CONNECT" />
+            </accepts>
+        </cmds>
+    </nodeDef>
+
+	<!-- ECONET WH Node -->
+	<nodeDef id="WHEATER" nls="WH">
+        <editors />
+        <sts>
+            <st id="VA" editor="BOOL" /> <!-- ECONET WH Vacation Mode -->
+        </sts>
+        <cmds>
+        	<sends />
+            <accepts>
+                <cmd id="DON" />
+                <cmd id="DOF" />
+            </accepts>
+        </cmds>
+    </nodeDef>
+
+</nodeDefs>

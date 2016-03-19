@@ -31,8 +31,7 @@
                 <cmd id="SET_IP_4">
                     <p id="GV4" editor="IP" init="GV4" />
                 </cmd>
-                <cmd id="CONNECT">
-                </cmd>
+                <cmd id="CONNECT" />
             </accepts>
         </cmds>
     </nodeDef>
