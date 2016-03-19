@@ -1,0 +1,18 @@
+# RemoteLync Labels
+ND-REMOTELYNC-NAME = RemoteLync Node
+ST-RL-CONNECTED-NAME = RemoteLync is Connected
+CMD-RL-CONNECT-NAME = Connect to RemoteLync
+
+# RemoteLync Smoke/CO Labels
+ND-SMOKE-NAME = Smoke Node
+ST-SM-SMOKE-NAME = Smoke Status
+ST-SM-CO-NAME = CO Status
+CMD-SM-DON-NAME = Monitor On 
+CMD-SM-DOF-NAME = Monitor Off
+
+# RemoteLync Camera Labels
+ND-CAMERA-NAME = Camera Node
+ST-CAM-MOTION-NAME = Motion Status
+CMD-SM-DON-NAME = Monitor On 
+CMD-SM-DOF-NAME = Monitor Off
+
