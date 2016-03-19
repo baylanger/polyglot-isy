@@ -1,2 +1,0 @@
-1. Install node server on the ISY controller.
-2. Set the username and password for RemoteLync
