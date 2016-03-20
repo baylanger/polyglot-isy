@@ -13,7 +13,7 @@
             "date": "March 14, 2016",
             "source": "https://github.com/quatanium/python-onvif/tree/5db8e04f36747e28088e2a8765aabd266e1176ad",
             "license": "https://raw.githubusercontent.com/quatanium/python-onvif/5db8e04f36747e28088e2a8765aabd266e1176ad/LICENSE"
-        }
+        },
 
         {
             "title": "onvif: ONVIF Client protocol Profile S Node.js implementation",
