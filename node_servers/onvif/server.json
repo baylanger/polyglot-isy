@@ -18,7 +18,7 @@
         {
             "title": "onvif: ONVIF Client protocol Profile S Node.js implementation",
             "author": "Andrew Laptev (agsh)",
-            "version": “0.4.1”,
+            "version": "0.4.1",
             "date": "March 20, 2016",
             "source": "https://github.com/agsh/onvif/tree/f1533bd1d6871107ceed1faecf0029c8f5568b6c",
             "license": ""
