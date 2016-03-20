@@ -1,5 +1,5 @@
 # ZM Server Labels
-ND-ZOMEMINDER-NAME = ZM Server
+ND-ZOMEMINDER-NAME = ZoneMinder Server
 ST-ZM-GV1-NAME = IP Address Part 1
 ST-ZM-GV2-NAME = IP Address Part 2
 ST-ZM-GV3-NAME = IP Address Part 3
@@ -16,7 +16,7 @@ CMDP-ZM-IP-GV3-NAME = IP Address Part 3
 CMDP-ZM-IP-GV4-NAME = IP Address Part 4
 CMD-ZM-CONNECT-NAME = Connect to Server
 
-# ZM Server Motion Labels
+# ZM Camera Motion Labels
 ND-MOTION-NAME = Camera Motion
 ST-MO-EN-NAME = Motion Enabled
 ST-MO-AL-NAME = Motion Alarm

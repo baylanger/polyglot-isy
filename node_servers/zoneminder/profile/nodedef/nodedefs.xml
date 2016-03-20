@@ -36,7 +36,7 @@
         </cmds>
     </nodeDef>
 
-	<!-- ZM Motion Node -->
+	<!-- ZM Camera Motion Node -->
 	<nodeDef id="MOTION" nls="MO">
         <editors />
         <sts>

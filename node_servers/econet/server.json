@@ -1,5 +1,5 @@
 {
-    "name": “ECONET WH Node”,
+    "name": “ECONET Node”,
     "docs": "http://io.myrheem.com",
     "type": "python",
     "executable": “econet.py",
