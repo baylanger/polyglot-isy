@@ -1,10 +1,10 @@
 {
-    "name": “ECONET Node”,
+    "name": "ECONET Node",
     "docs": "http://io.myrheem.com",
     "type": "python",
-    "executable": “econet.py",
+    "executable": "econet.py",
     "description": "Connect ECONET WH to the ISY994.",
-    "notice": “\”ECONET\” is a registered trademark of Rheem. This Node Server is neither developed by nor endorsed by Rheem”,
+    "notice": "\"ECONET\" is a registered trademark of Rheem. This Node Server is neither developed by nor endorsed by Rheem",
     "credits": [
         {
             "title": "",
